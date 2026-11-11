@@ -1,0 +1,14 @@
+#Russian
+ключи:
+
+test8.py
+E:\Vs_code\Python\tests
+и фото-вместе с файлом должны быть с ним!!!!!!!
+
+#English
+
+keys:
+
+test8.py
+E:\Vs_code\Python\tests
+and the photo — together with the file — must be with it!!!!!!!
